@@ -1,6 +1,7 @@
 package com.dblab.dto;
 
 import com.dblab.domain.User;
+import lombok.Builder;
 import lombok.Getter;
 import lombok.Setter;
 
